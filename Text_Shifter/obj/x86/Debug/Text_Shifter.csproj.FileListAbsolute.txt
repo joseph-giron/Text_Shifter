@@ -1,0 +1,14 @@
+G:\C Projects\Visual Studio\Projects\XOR_By\XOR_By\XOR_By\bin\Debug\XOR_By.exe
+G:\C Projects\Visual Studio\Projects\XOR_By\XOR_By\XOR_By\bin\Debug\XOR_By.pdb
+G:\C Projects\Visual Studio\Projects\XOR_By\XOR_By\XOR_By\obj\x86\Debug\XOR_By.FrmMain.resources
+G:\C Projects\Visual Studio\Projects\XOR_By\XOR_By\XOR_By\obj\x86\Debug\XOR_By.Properties.Resources.resources
+G:\C Projects\Visual Studio\Projects\XOR_By\XOR_By\XOR_By\obj\x86\Debug\Text_Shifter.csproj.GenerateResource.Cache
+G:\C Projects\Visual Studio\Projects\XOR_By\XOR_By\XOR_By\obj\x86\Debug\XOR_By.exe
+G:\C Projects\Visual Studio\Projects\XOR_By\XOR_By\XOR_By\obj\x86\Debug\XOR_By.pdb
+G:\C Projects\Visual Studio\Projects\XOR_By\Text_Shifter\Text_Shifter\obj\x86\Debug\XOR_By.FrmMain.resources
+G:\C Projects\Visual Studio\Projects\XOR_By\Text_Shifter\Text_Shifter\obj\x86\Debug\XOR_By.Properties.Resources.resources
+G:\C Projects\Visual Studio\Projects\XOR_By\Text_Shifter\Text_Shifter\obj\x86\Debug\Text_Shifter.csproj.GenerateResource.Cache
+G:\C Projects\Visual Studio\Projects\XOR_By\Text_Shifter\Text_Shifter\bin\Debug\Text_Shifter.exe
+G:\C Projects\Visual Studio\Projects\XOR_By\Text_Shifter\Text_Shifter\bin\Debug\Text_Shifter.pdb
+G:\C Projects\Visual Studio\Projects\XOR_By\Text_Shifter\Text_Shifter\obj\x86\Debug\Text_Shifter.exe
+G:\C Projects\Visual Studio\Projects\XOR_By\Text_Shifter\Text_Shifter\obj\x86\Debug\Text_Shifter.pdb

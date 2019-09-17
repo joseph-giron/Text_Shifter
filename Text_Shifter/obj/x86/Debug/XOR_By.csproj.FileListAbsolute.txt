@@ -1,0 +1,16 @@
+c:\users\joe\documents\visual studio 2010\Projects\XOR_By\XOR_By\bin\Debug\XOR_By.exe
+c:\users\joe\documents\visual studio 2010\Projects\XOR_By\XOR_By\bin\Debug\XOR_By.pdb
+c:\users\joe\documents\visual studio 2010\Projects\XOR_By\XOR_By\obj\x86\Debug\XOR_By.Form1.resources
+c:\users\joe\documents\visual studio 2010\Projects\XOR_By\XOR_By\obj\x86\Debug\XOR_By.Properties.Resources.resources
+c:\users\joe\documents\visual studio 2010\Projects\XOR_By\XOR_By\obj\x86\Debug\XOR_By.csproj.GenerateResource.Cache
+c:\users\joe\documents\visual studio 2010\Projects\XOR_By\XOR_By\obj\x86\Debug\XOR_By.exe
+c:\users\joe\documents\visual studio 2010\Projects\XOR_By\XOR_By\obj\x86\Debug\XOR_By.pdb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\XOR_By\XOR_By\obj\x86\Debug\XOR_By.csprojResolveAssemblyReference.cache
+G:\C Projects\Visual Studio\Projects\XOR_By\XOR_By\XOR_By\obj\x86\Debug\XOR_By.exe
+G:\C Projects\Visual Studio\Projects\XOR_By\XOR_By\XOR_By\obj\x86\Debug\XOR_By.pdb
+G:\C Projects\Visual Studio\Projects\XOR_By\XOR_By\XOR_By\bin\Debug\XOR_By.exe
+G:\C Projects\Visual Studio\Projects\XOR_By\XOR_By\XOR_By\bin\Debug\XOR_By.pdb
+G:\C Projects\Visual Studio\Projects\XOR_By\XOR_By\XOR_By\obj\x86\Debug\XOR_By.csprojResolveAssemblyReference.cache
+G:\C Projects\Visual Studio\Projects\XOR_By\XOR_By\XOR_By\obj\x86\Debug\XOR_By.Form1.resources
+G:\C Projects\Visual Studio\Projects\XOR_By\XOR_By\XOR_By\obj\x86\Debug\XOR_By.Properties.Resources.resources
+G:\C Projects\Visual Studio\Projects\XOR_By\XOR_By\XOR_By\obj\x86\Debug\XOR_By.csproj.GenerateResource.Cache
